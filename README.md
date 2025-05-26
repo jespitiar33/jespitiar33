@@ -3,6 +3,10 @@
 <!--
 **jespitiar33/jespitiar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/jespitiar33/jespitiar33/blob/main/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner.png"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
